@@ -1,0 +1,6 @@
+{
+  "receivers": [
+    { "net": 0, "subnet": 0, "universe": 0 },
+    { "net": 1, "subnet": 0, "universe": 0 }
+  ]
+}

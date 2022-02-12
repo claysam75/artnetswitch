@@ -1,0 +1,16 @@
+{
+  "name": "artnetswitch",
+  "version": "1.0.0",
+  "description": "Testing an artnet-controlled artnet switcher",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server"
+  },
+  "author": "SC",
+  "license": "ISC",
+  "dependencies": {
+    "dmxnet": "^0.8.0",
+    "nodemon": "^2.0.15"
+  }
+}
